@@ -1,3 +1,3 @@
 # pystudy
-for practice
-instance like 'Hello world'
+for practicing
+instances like 'Hello world'
